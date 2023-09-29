@@ -1,0 +1,14 @@
+C:\Users\Серожа\Desktop\repos\skobki\bin\Debug\net6.0\skobki.exe
+C:\Users\Серожа\Desktop\repos\skobki\bin\Debug\net6.0\skobki.deps.json
+C:\Users\Серожа\Desktop\repos\skobki\bin\Debug\net6.0\skobki.runtimeconfig.json
+C:\Users\Серожа\Desktop\repos\skobki\bin\Debug\net6.0\skobki.dll
+C:\Users\Серожа\Desktop\repos\skobki\bin\Debug\net6.0\skobki.pdb
+C:\Users\Серожа\Desktop\repos\skobki\obj\Debug\net6.0\skobki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Серожа\Desktop\repos\skobki\obj\Debug\net6.0\skobki.AssemblyInfoInputs.cache
+C:\Users\Серожа\Desktop\repos\skobki\obj\Debug\net6.0\skobki.AssemblyInfo.cs
+C:\Users\Серожа\Desktop\repos\skobki\obj\Debug\net6.0\skobki.csproj.CoreCompileInputs.cache
+C:\Users\Серожа\Desktop\repos\skobki\obj\Debug\net6.0\skobki.dll
+C:\Users\Серожа\Desktop\repos\skobki\obj\Debug\net6.0\refint\skobki.dll
+C:\Users\Серожа\Desktop\repos\skobki\obj\Debug\net6.0\skobki.pdb
+C:\Users\Серожа\Desktop\repos\skobki\obj\Debug\net6.0\skobki.genruntimeconfig.cache
+C:\Users\Серожа\Desktop\repos\skobki\obj\Debug\net6.0\ref\skobki.dll
